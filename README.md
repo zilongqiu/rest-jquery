@@ -1,6 +1,6 @@
 # Basic Restful Service with JQuery
 
-Exercice 6 - https://spring.io/guides/gs/consuming-rest-angularjs/
+Exercice 6 - https://spring.io/guides/gs/consuming-rest-jquery/
 
 ## Commands
 
